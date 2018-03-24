@@ -14,16 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>kratun</o:Author>
   <o:LastAuthor>kratun</o:LastAuthor>
-  <o:Revision>2</o:Revision>
+  <o:Revision>3</o:Revision>
   <o:TotalTime>1</o:TotalTime>
   <o:Created>2018-03-24T16:14:00Z</o:Created>
-  <o:LastSaved>2018-03-24T16:15:00Z</o:LastSaved>
+  <o:LastSaved>2018-03-24T16:29:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>14</o:Words>
-  <o:Characters>85</o:Characters>
+  <o:Words>12</o:Words>
+  <o:Characters>72</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>98</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>83</o:CharactersWithSpaces>
   <o:Version>14.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -52,6 +52,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -399,10 +400,6 @@ made for exercise Is not it? </span><span lang=EN-US style='mso-fareast-font-fam
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Resolved
 conflict </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Make
-it again </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Hello
